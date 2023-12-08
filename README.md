@@ -1,7 +1,5 @@
 # OpenVPN
-Lazypic,LLC OpenVPN Setting
-
-- 컴퓨터, 모바일에서 Laypic,LLC의 Privit 네트워크를 접속할 수 있습니다.
+Lazypic,LLC OpenVPN 설정 방법을 다루는 문서입니다. 컴퓨터, 모바일에서 Laypic,LLC의 Privit 네트워크를 접속할 수 있습니다.
 
 ## 개요
 
